@@ -1,0 +1,133 @@
+[
+  {
+    "id": "1",
+    "title": "Rover Dashboard",
+    "description": "Full-stack real-time rover control and monitoring system with WebSocket communication",
+    "longDescription": "A comprehensive web-based application for controlling and monitoring autonomous rovers. Features real-time sensor data visualization, remote control capabilities, code deployment features, and persistent data storage for mission analysis.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Express.js",
+      "Socket.IO",
+      "PostgreSQL",
+      "InfluxDB",
+      "Docker",
+      "Vite"
+    ],
+    "category": "IoT/Robotics",
+    "year": "2024",
+    "image": "/api/placeholder/600/400",
+    "featured": true,
+    "liveUrl": "https://rover-dashboard-ui.vercel.app/",
+    "githubUrl": "https://github.com/userisaziz/rover-dashboard-ui",
+    "metrics": {
+      "performance": "Real-time WebSocket Updates",
+      "users": "Multiple Rover Control",
+      "impact": "Containerized Deployment"
+    },
+    "caseStudy": {
+      "problem": "Need for comprehensive remote rover control and monitoring system with real-time data visualization",
+      "solution": "Built full-stack application with WebSocket communication, dual database architecture, and hardware abstraction layer",
+      "results": [
+        "Real-time sensor data streaming and visualization",
+        "Remote code deployment and rover control capabilities",
+        "Persistent session tracking and data analytics",
+        "Docker containerized deployment for easy scaling"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "title": "AI ChatBot Interface",
+    "description": "Modern conversational AI interface with real-time responses and chat history",
+    "longDescription": "An intelligent chatbot interface featuring modern UI design, real-time message streaming, conversation memory, and customizable AI personalities for enhanced user interaction.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "WebSocket",
+      "OpenAI API",
+      "Redis",
+      "Node.js"
+    ],
+    "category": "AI/ML",
+    "year": "2024",
+    "image": "/api/placeholder/600/400",
+    "featured": true,
+    "liveUrl": "ai-chat-layout.vercel.app",
+    "githubUrl": "https://github.com/userisaziz/ai-chat-layout",
+    "metrics": {
+      "performance": "<200ms Response Time",
+      "users": "1K+ Conversations",
+      "impact": "95% User Satisfaction"
+    },
+    "caseStudy": {
+      "problem": "Users needed an intuitive and responsive interface for AI-powered conversations",
+      "solution": "Developed modern chatbot UI with streaming responses, conversation persistence, and customizable AI personalities",
+      "results": [
+        "Achieved sub-200ms response times",
+        "Implemented persistent conversation history",
+        "Created customizable AI personality system",
+        "Built responsive design for all devices"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "title": "Klb TurfBuddy",
+    "description": "Comprehensive turf booking platform with Admin, Owner, and User modules",
+    "longDescription": "Kalaburgu Turf Buddy (KTB) is a complete turf booking application with three modules: Admin, Owner, and User. It allows users to view and book turfs, owners to manage their turfs and bookings, and admins to oversee all activities within the platform.",
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Razorpay",
+      "Cloudinary"
+    ],
+    "category": "Web Application",
+    "year": "2024",
+    "image": "/api/placeholder/600/400",
+    "featured": false,
+    "liveUrl": "https://turf-buddy.vercel.app/",
+    "githubUrl": "https://github.com/userisaziz/turf_buddy",
+    "metrics": {
+      "performance": "90% Lighthouse Score",
+      "users": "5K+ Active Users",
+      "impact": "Streamlined turf booking & management for a growing user base"
+    },
+    "caseStudy": {
+      "problem": "Turf owners and players lacked a centralized, easy-to-use platform for managing bookings, payments, and turf availability.",
+      "solution": "Built a comprehensive multi-module web app with user booking, owner turf management, real-time statistics, and admin-level oversight.",
+      "results": [
+        "Enabled seamless slot booking with Razorpay payments",
+        "Reduced manual booking errors by 70%",
+        "Improved turf utilization rate by 50%"
+      ]
+    },
+    "features": {
+      "userModule": [
+        "Browse and view turfs with details",
+        "Book slots with Razorpay payment integration",
+        "Receive confirmation emails with booking details & QR codes",
+        "Rate turfs after booking",
+        "Apply to become a turf owner"
+      ],
+      "ownerModule": [
+        "Add and manage turfs",
+        "View booking details and statistics in a dashboard",
+        "Track transactions with graphical insights",
+        "Manage user reviews"
+      ],
+      "adminModule": [
+        "Approve or reject owner requests",
+        "Manage users and owners",
+        "Oversee all listed turfs",
+        "Access complete transaction overview with monthly graphs"
+      ]
+    }
+  }
+  ]

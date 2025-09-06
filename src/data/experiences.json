@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "role": "Full Stack Developer",
+    "company": "AlmaBetter (via Antino)",
+    "location": "Bangalore, India",
+    "period": "Nov 2024 - Present",
+    "description": "Contributing to an ed-tech platform built using Next.js and Strapi CMS, implementing static generation and fetching structured content at build time for performance and SEO optimization.",
+    "achievements": [
+      "Contributed to an ed-tech platform built using Next.js and Strapi CMS, implementing static generation and fetching structured content at build time for performance and SEO optimization",
+      "Integrated AWS services (S3, Lambda, and API Gateway) to handle file uploads, serverless functions, and secure API endpoints, improving scalability and reducing infrastructure overhead",
+      "Designed and implemented a dynamic Internship Listings page to highlight partnered companies, integrating CMS-driven content, advanced filtering, and responsive UI for enhanced user experience"
+    ],
+    "technologies": [
+      "Next.js",
+      "Strapi CMS",
+      "AWS S3",
+      "AWS Lambda",
+      "API Gateway",
+      "Static Generation",
+      "SEO Optimization"
+    ],
+    "impact": "Improved scalability and reduced infrastructure overhead, enhanced performance and SEO optimization"
+  },
+  {
+    "id": "2",
+    "role": "Full Stack Developer",
+    "company": "Trimpixel (via Antino)",
+    "location": "Bangalore, India",
+    "period": "Jan 2024 - Nov 2024",
+    "description": "Architected a modular, multi-brand dashboard for clients like Tanishq, Spinny, Bluestone, and Livspace, supporting real-time data pipelines.",
+    "achievements": [
+      "Architected a modular, multi-brand dashboard for clients like Tanishq, Spinny, Bluestone, and Livspace, supporting real-time data pipelines",
+      "Built a scalable audio tagging platform that automated manual workflows, reducing dataops effort by 30% and accelerating AI model training",
+      "Enabled seamless integration with AI/ML pipelines for live data flow and tag ingestion, improving feedback loops",
+      "Implemented role-based access control to securely manage dataset visibility and permissions across dashboards",
+      "Embedded Google Analytics for behavioral insights, directly influencing data-driven UI/UX refinements"
+    ],
+    "technologies": [
+      "Multi-brand Dashboard",
+      "Real-time Data Pipelines",
+      "Audio Tagging Platform",
+      "AI/ML Integration",
+      "Role-based Access Control",
+      "Google Analytics"
+    ],
+    "impact": "30% reduction in dataops effort, accelerated AI model training, improved feedback loops"
+  },
+  {
+    "id": "3",
+    "role": "Full Stack Developer",
+    "company": "Antino Labs",
+    "location": "Bangalore, India",
+    "period": "May 2023 - Jan 2024",
+    "description": "Led full-stack development of Lion Charge, a web + admin platform for EV charging, including customer-facing QR-based charging flows and internal management tools.",
+    "achievements": [
+      "Led full-stack development of Lion Charge, a web + admin platform for EV charging, including customer-facing QR-based charging flows and internal management tools",
+      "Built critical modules like CPO Support, CRM, and Alarm Monitoring, using efficient polling, pagination, and debouncing strategies",
+      "Introduced QR-based session initiation for customers, resulting in a 25% increase in platform usage and engagement",
+      "Optimized dashboard responsiveness by 20% through caching, load balancing, and query optimizations",
+      "Developed a Progressive Web App (PWA) for faster load times, offline access, and mobile-first usability"
+    ],
+    "technologies": [
+      "EV Charging Platform",
+      "QR-based Flows",
+      "CPO Support",
+      "CRM",
+      "Alarm Monitoring",
+      "PWA",
+      "Caching",
+      "Load Balancing"
+    ],
+    "impact": "25% increase in platform usage and engagement, 20% improvement in dashboard responsiveness"
+  }
+]

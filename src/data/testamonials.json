@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "role": "Product Manager",
+    "comment": "Working with you was a fantastic experience. Your attention to detail and creativity are unmatched!"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "role": "Lead Developer",
+    "comment": "Your technical skills and problem-solving abilities made a huge difference in our project. Highly recommended!"
+  },
+  {
+    "id": 3,
+    "name": "Carla Gomez",
+    "role": "UX Designer",
+    "comment": "You brought our vision to life with elegance and efficiency. Would love to collaborate again!"
+  }
+]

@@ -1,0 +1,39 @@
+const hero = {
+  name: "Creative Developer & Designer",
+  location: "Bangalore",
+  tagline: "Available for exciting projects",
+  typingText: 'const passion = "Crafting interfaces humans ♥️";',
+  description:
+    "Passionate frontend developer from Bangalore, crafting digital experiences that blend creativity with cutting-edge technology.",
+  stats: [
+    {
+      value: "3+",
+      label: "Years Experience",
+      position: "top-left",
+    },
+    {
+      value: "12",
+      label: "Projects Built",
+      position: "top-right",
+    },
+    {
+      value: "99%",
+      label: "Accessibility Score",
+      position: "bottom-left",
+    },
+  ],
+  buttons: [
+    {
+      text: "Explore My Journey",
+      type: "primary",
+      icon: "ArrowRight",
+    },
+    {
+      text: "Say Hello",
+      type: "secondary",
+      icon: "Heart",
+    },
+  ],
+};
+
+export default hero;

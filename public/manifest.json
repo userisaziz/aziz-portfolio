@@ -1,0 +1,81 @@
+{
+  \"name\": \"Abdul Aziz Portfolio\",
+  \"short_name\": \"Abdul Aziz\",
+  \"description\": \"Abdul Aziz - Frontend Developer & Designer from Bangalore crafting exceptional digital experiences with React, TypeScript, and cutting-edge web technologies.\",
+  \"start_url\": \"/\",
+  \"display\": \"standalone\",
+  \"background_color\": \"#F4F1DE\",
+  \"theme_color\": \"#E07A5F\",
+  \"orientation\": \"portrait-primary\",
+  \"scope\": \"/\",
+  \"lang\": \"en\",
+  \"dir\": \"ltr\",
+  \"icons\": [
+    {
+      \"src\": \"/favicon.ico\",
+      \"sizes\": \"32x32\",
+      \"type\": \"image/x-icon\"
+    },
+    {
+      \"src\": \"/favicon.svg\",
+      \"sizes\": \"any\",
+      \"type\": \"image/svg+xml\",
+      \"purpose\": \"any maskable\"
+    },
+    {
+      \"src\": \"/icon-192.png\",
+      \"sizes\": \"192x192\",
+      \"type\": \"image/png\",
+      \"purpose\": \"any\"
+    },
+    {
+      \"src\": \"/icon-512.png\",
+      \"sizes\": \"512x512\",
+      \"type\": \"image/png\",
+      \"purpose\": \"any\"
+    },
+    {
+      \"src\": \"/icon-192-maskable.png\",
+      \"sizes\": \"192x192\",
+      \"type\": \"image/png\",
+      \"purpose\": \"maskable\"
+    },
+    {
+      \"src\": \"/icon-512-maskable.png\",
+      \"sizes\": \"512x512\",
+      \"type\": \"image/png\",
+      \"purpose\": \"maskable\"
+    }
+  ],
+  \"categories\": [\"portfolio\", \"developer\", \"design\"],
+  \"screenshots\": [
+    {
+      \"src\": \"/screenshot-desktop.png\",
+      \"sizes\": \"1280x720\",
+      \"type\": \"image/png\",
+      \"form_factor\": \"wide\",
+      \"label\": \"Abdul Aziz Portfolio - Desktop View\"
+    },
+    {
+      \"src\": \"/screenshot-mobile.png\",
+      \"sizes\": \"390x844\",
+      \"type\": \"image/png\",
+      \"form_factor\": \"narrow\",
+      \"label\": \"Abdul Aziz Portfolio - Mobile View\"
+    }
+  ],
+  \"shortcuts\": [
+    {
+      \"name\": \"View Projects\",
+      \"short_name\": \"Projects\",
+      \"description\": \"View all my projects and case studies\",
+      \"url\": \"/projects\",
+      \"icons\": [
+        {
+          \"src\": \"/favicon.svg\",
+          \"sizes\": \"96x96\"
+        }
+      ]
+    }
+  ]
+}"

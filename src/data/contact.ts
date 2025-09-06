@@ -1,0 +1,10 @@
+const contact = {
+  phoneNumber: "+917204977240",
+  email: "azizadnan370@gmail.com",
+  linkedln: "https://www.linkedin.com/in/userisaziz/",
+  github: "https://github.com/userisaziz",
+  twitter: "",
+  address: "BTM Layout, Bangalore",
+};
+
+export default contact;
